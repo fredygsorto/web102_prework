@@ -4,30 +4,34 @@ Submitted by: Fredy
 
 **Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] The introduction section explains the background of the company and how many games remain unfunded.
-- [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-- [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-- [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+- [x] The introduction section explains the background of the company and how many games remain unfunded.
+- [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+- [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+- [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [] List anything else that you can get done to improve the app functionality!
+
+* Add a navbar to the webpage for easier navigation
+* Add a more info button to the card so users can reach more information
+* A search bar would be nice too
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/v6qRT9h.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with imgur
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -40,7 +44,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Fredy Sorto
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
