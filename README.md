@@ -42,6 +42,8 @@ GIF created with imgur
 
 Describe any challenges encountered while building the app.
 
+Great challenge and review for intermediate web development.
+
 ## License
 
     Copyright 2023 Fredy Sorto
